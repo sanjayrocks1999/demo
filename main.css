@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: black;
+}
+
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;
+  }
+  
+  .display-4{
+      text-decoration: tomato;
+  }
+
+  .jumbotron-detailed{
+    
+    background: url('https://miro.medium.com/max/2000/1*dyh55I3GoFMxeq1-BmH28g.jpeg') !important ;
+    background-repeat: no-repeat;
+    background-size:50% 50%;
+    
+    
+    
+
+    
+  }
+
+  
